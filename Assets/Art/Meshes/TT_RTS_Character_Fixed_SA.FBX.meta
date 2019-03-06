@@ -1,0 +1,2518 @@
+fileFormatVersion: 2
+guid: 1037ed6071e28c1448e4119a251af08d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Backpack_container
+    100002: Bip001
+    100004: Bip001 Footsteps
+    100006: Bip001 Head
+    100008: Bip001 HeadNub
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Foot
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L Thigh
+    100022: Bip001 L Toe0
+    100024: Bip001 L Toe0Nub
+    100026: Bip001 L UpperArm
+    100028: Bip001 Neck
+    100030: Bip001 Pelvis
+    100032: Bip001 R Calf
+    100034: Bip001 R Clavicle
+    100036: Bip001 R Foot
+    100038: Bip001 R Forearm
+    100040: Bip001 R Hand
+    100042: Bip001 R Thigh
+    100044: Bip001 R Toe0
+    100046: Bip001 R Toe0Nub
+    100048: Bip001 R UpperArm
+    100050: Bip001 Spine
+    100052: Body_01a
+    100054: Body_01b
+    100056: Body_01c
+    100058: Body_02a
+    100060: Body_02b
+    100062: Body_02c
+    100064: Body_02d
+    100066: Body_03a
+    100068: Body_03b
+    100070: Body_04a
+    100072: Body_04b
+    100074: Body_04c
+    100076: Body_04d
+    100078: Body_04e
+    100080: Body_05a
+    100082: Body_05b
+    100084: Body_05c
+    100086: Body_05d
+    100088: Body_05e
+    100090: Body_06a
+    100092: Body_06b
+    100094: Body_06c
+    100096: Body_06d
+    100098: Body_07a
+    100100: Body_07b
+    100102: Body_07c
+    100104: Body_08a
+    100106: Body_08b
+    100108: Body_09c
+    100110: Body_09d
+    100112: Body_10a
+    100114: Body_10b
+    100116: Body_10c
+    100118: Body_10d
+    100120: Body_11a
+    100122: Body_11b
+    100124: Body_11c
+    100126: Body_12a
+    100128: Body_12b
+    100130: Body_12c
+    100132: Body_12d
+    100134: Body_12e
+    100136: Body_13a
+    100138: Body_13b
+    100140: Body_13c
+    100142: Head_01a
+    100144: Head_01b
+    100146: Head_01c
+    100148: Head_01d
+    100150: Head_01e
+    100152: Head_02a
+    100154: Head_02b
+    100156: Head_02c
+    100158: Head_02d
+    100160: Head_02e
+    100162: Head_02f
+    100164: Head_03a
+    100166: Head_03b
+    100168: Head_03c
+    100170: Head_03d
+    100172: Head_03e
+    100174: Head_04a
+    100176: Head_04b
+    100178: Head_04c
+    100180: Head_04d
+    100182: Head_04e
+    100184: Head_04f
+    100186: Head_05a
+    100188: Head_05b
+    100190: Head_05c
+    100192: Head_06a
+    100194: Head_06b
+    100196: Head_06c
+    100198: Head_06d
+    100200: Head_06e
+    100202: Head_06f
+    100204: Head_06g
+    100206: Head_06h
+    100208: Head_07a
+    100210: Head_07b
+    100212: Head_07c
+    100214: Head_07d
+    100216: Head_07e
+    100218: Head_08a
+    100220: Head_08b
+    100222: Head_08c
+    100224: Head_08d
+    100226: Head_08e
+    100228: Head_08f
+    100230: Head_08g
+    100232: Head_09a
+    100234: Head_09b
+    100236: Head_09c
+    100238: Head_09d
+    100240: Head_09e
+    100242: Head_09f
+    100244: Head_09g
+    100246: Head_09h
+    100248: Head_10a
+    100250: Head_10b
+    100252: Head_10c
+    100254: Head_10d
+    100256: Head_10e
+    100258: Head_10f
+    100260: Head_10g
+    100262: Head_10h
+    100264: Head_11a
+    100266: Head_11b
+    100268: Head_11c
+    100270: Head_11d
+    100272: Head_11e
+    100274: Head_12a
+    100276: Head_12b
+    100278: Head_12c
+    100280: Head_12d
+    100282: Head_12e
+    100284: HEAD_CONTAINER
+    100286: L_hand_container
+    100288: L_shield_container
+    100290: quiver_A
+    100292: quiver_B
+    100294: R_hand_container
+    100296: shield_01
+    100298: shield_02
+    100300: shield_03
+    100302: shield_04
+    100304: shield_05
+    100306: shield_06
+    100308: shield_07
+    100310: shield_08
+    100312: shield_09
+    100314: shield_10
+    100316: shield_11
+    100318: shield_12
+    100320: shield_13
+    100322: shield_14
+    100324: shield_15
+    100326: shield_16
+    100328: shield_17
+    100330: shield_18
+    100332: shield_19
+    100334: shield_20
+    100336: shield_21
+    100338: shield_22
+    100340: shield_23
+    100342: //RootNode
+    100344: w_axe_A
+    100346: w_axe_B
+    100348: w_axe_C
+    100350: w_axe_D
+    100352: w_axe_E
+    100354: w_bardiche
+    100356: w_broad_sword
+    100358: w_broad_sword_B
+    100360: w_club
+    100362: w_crossbow
+    100364: w_crossbow_B
+    100366: w_dagger_A
+    100368: w_dagger_B
+    100370: w_dagger_C
+    100372: w_glaive
+    100374: w_halberd
+    100376: w_hammer
+    100378: w_long_bow
+    100380: w_mace
+    100382: w_mace_B
+    100384: w_maul
+    100386: w_maul_B
+    100388: w_morning_star
+    100390: w_pick
+    100392: w_pike
+    100394: w_recurve_bow
+    100396: w_sabre
+    100398: w_short_bow
+    100400: w_short_sword
+    100402: w_short_sword_B
+    100404: w_spear
+    100406: w_staff_A
+    100408: w_staff_B
+    100410: w_staff_C
+    100412: w_staff_D
+    100414: w_sword
+    100416: w_sword_B
+    100418: w_TH_Axe_A
+    100420: w_TH_Axe_B
+    100422: w_TH_claymore
+    100424: w_TH_club
+    100426: w_TH_maul
+    100428: w_TH_maul_B
+    100430: w_TH_sword
+    100432: w_TH_sword_B
+    100434: w_TH_warhammer
+    100436: w_TH_warhammer_B
+    100438: w_warhammer
+    100440: Head_Reference
+    100442: L_Hand_Ref
+    100444: Shield_Ref
+    100446: R_Hand_Ref
+    100448: Back_Ref
+    100450: Body_Ref
+    100452: L_Arm_Ref
+    100454: L_Leg_Ref
+    100456: R_Arm_Ref
+    100458: R_Leg_Ref
+    100460: Ref_L_Arm
+    100462: Ref_L_Forearm
+    100464: Ref_L_Leg
+    100466: Ref_L_Shin
+    100468: Ref_R_Arm
+    100470: Ref_R_Forearm
+    100472: Ref_R_Leg
+    100474: Ref_R_Shin
+    100476: Ref_Body
+    100478: Body_03a_L_Arm
+    100480: Body_03a_L_Forearm
+    100482: Body_03a_L_Leg
+    100484: Body_03a_R_Arm
+    100486: Body_03a_R_Forearm
+    100488: Body_03a_R_Leg
+    100490: Body_03a_L_Arm_LOD0
+    100492: Body_03a_L_Forearm_LOD0
+    100494: Body_03a_L_Leg_LOD0
+    100496: Body_03a_LOD0
+    100498: Body_03a_R_Arm_LOD0
+    100500: Body_03a_R_Forearm_LOD0
+    100502: Body_03a_R_Leg_LOD0
+    100504: Head_03b_LOD0
+    100506: Head_03a_LOD
+    400000: Backpack_container
+    400002: Bip001
+    400004: Bip001 Footsteps
+    400006: Bip001 Head
+    400008: Bip001 HeadNub
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Foot
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L Thigh
+    400022: Bip001 L Toe0
+    400024: Bip001 L Toe0Nub
+    400026: Bip001 L UpperArm
+    400028: Bip001 Neck
+    400030: Bip001 Pelvis
+    400032: Bip001 R Calf
+    400034: Bip001 R Clavicle
+    400036: Bip001 R Foot
+    400038: Bip001 R Forearm
+    400040: Bip001 R Hand
+    400042: Bip001 R Thigh
+    400044: Bip001 R Toe0
+    400046: Bip001 R Toe0Nub
+    400048: Bip001 R UpperArm
+    400050: Bip001 Spine
+    400052: Body_01a
+    400054: Body_01b
+    400056: Body_01c
+    400058: Body_02a
+    400060: Body_02b
+    400062: Body_02c
+    400064: Body_02d
+    400066: Body_03a
+    400068: Body_03b
+    400070: Body_04a
+    400072: Body_04b
+    400074: Body_04c
+    400076: Body_04d
+    400078: Body_04e
+    400080: Body_05a
+    400082: Body_05b
+    400084: Body_05c
+    400086: Body_05d
+    400088: Body_05e
+    400090: Body_06a
+    400092: Body_06b
+    400094: Body_06c
+    400096: Body_06d
+    400098: Body_07a
+    400100: Body_07b
+    400102: Body_07c
+    400104: Body_08a
+    400106: Body_08b
+    400108: Body_09c
+    400110: Body_09d
+    400112: Body_10a
+    400114: Body_10b
+    400116: Body_10c
+    400118: Body_10d
+    400120: Body_11a
+    400122: Body_11b
+    400124: Body_11c
+    400126: Body_12a
+    400128: Body_12b
+    400130: Body_12c
+    400132: Body_12d
+    400134: Body_12e
+    400136: Body_13a
+    400138: Body_13b
+    400140: Body_13c
+    400142: Head_01a
+    400144: Head_01b
+    400146: Head_01c
+    400148: Head_01d
+    400150: Head_01e
+    400152: Head_02a
+    400154: Head_02b
+    400156: Head_02c
+    400158: Head_02d
+    400160: Head_02e
+    400162: Head_02f
+    400164: Head_03a
+    400166: Head_03b
+    400168: Head_03c
+    400170: Head_03d
+    400172: Head_03e
+    400174: Head_04a
+    400176: Head_04b
+    400178: Head_04c
+    400180: Head_04d
+    400182: Head_04e
+    400184: Head_04f
+    400186: Head_05a
+    400188: Head_05b
+    400190: Head_05c
+    400192: Head_06a
+    400194: Head_06b
+    400196: Head_06c
+    400198: Head_06d
+    400200: Head_06e
+    400202: Head_06f
+    400204: Head_06g
+    400206: Head_06h
+    400208: Head_07a
+    400210: Head_07b
+    400212: Head_07c
+    400214: Head_07d
+    400216: Head_07e
+    400218: Head_08a
+    400220: Head_08b
+    400222: Head_08c
+    400224: Head_08d
+    400226: Head_08e
+    400228: Head_08f
+    400230: Head_08g
+    400232: Head_09a
+    400234: Head_09b
+    400236: Head_09c
+    400238: Head_09d
+    400240: Head_09e
+    400242: Head_09f
+    400244: Head_09g
+    400246: Head_09h
+    400248: Head_10a
+    400250: Head_10b
+    400252: Head_10c
+    400254: Head_10d
+    400256: Head_10e
+    400258: Head_10f
+    400260: Head_10g
+    400262: Head_10h
+    400264: Head_11a
+    400266: Head_11b
+    400268: Head_11c
+    400270: Head_11d
+    400272: Head_11e
+    400274: Head_12a
+    400276: Head_12b
+    400278: Head_12c
+    400280: Head_12d
+    400282: Head_12e
+    400284: HEAD_CONTAINER
+    400286: L_hand_container
+    400288: L_shield_container
+    400290: quiver_A
+    400292: quiver_B
+    400294: R_hand_container
+    400296: shield_01
+    400298: shield_02
+    400300: shield_03
+    400302: shield_04
+    400304: shield_05
+    400306: shield_06
+    400308: shield_07
+    400310: shield_08
+    400312: shield_09
+    400314: shield_10
+    400316: shield_11
+    400318: shield_12
+    400320: shield_13
+    400322: shield_14
+    400324: shield_15
+    400326: shield_16
+    400328: shield_17
+    400330: shield_18
+    400332: shield_19
+    400334: shield_20
+    400336: shield_21
+    400338: shield_22
+    400340: shield_23
+    400342: //RootNode
+    400344: w_axe_A
+    400346: w_axe_B
+    400348: w_axe_C
+    400350: w_axe_D
+    400352: w_axe_E
+    400354: w_bardiche
+    400356: w_broad_sword
+    400358: w_broad_sword_B
+    400360: w_club
+    400362: w_crossbow
+    400364: w_crossbow_B
+    400366: w_dagger_A
+    400368: w_dagger_B
+    400370: w_dagger_C
+    400372: w_glaive
+    400374: w_halberd
+    400376: w_hammer
+    400378: w_long_bow
+    400380: w_mace
+    400382: w_mace_B
+    400384: w_maul
+    400386: w_maul_B
+    400388: w_morning_star
+    400390: w_pick
+    400392: w_pike
+    400394: w_recurve_bow
+    400396: w_sabre
+    400398: w_short_bow
+    400400: w_short_sword
+    400402: w_short_sword_B
+    400404: w_spear
+    400406: w_staff_A
+    400408: w_staff_B
+    400410: w_staff_C
+    400412: w_staff_D
+    400414: w_sword
+    400416: w_sword_B
+    400418: w_TH_Axe_A
+    400420: w_TH_Axe_B
+    400422: w_TH_claymore
+    400424: w_TH_club
+    400426: w_TH_maul
+    400428: w_TH_maul_B
+    400430: w_TH_sword
+    400432: w_TH_sword_B
+    400434: w_TH_warhammer
+    400436: w_TH_warhammer_B
+    400438: w_warhammer
+    400440: Head_Reference
+    400442: L_Hand_Ref
+    400444: Shield_Ref
+    400446: R_Hand_Ref
+    400448: Back_Ref
+    400450: Body_Ref
+    400452: L_Arm_Ref
+    400454: L_Leg_Ref
+    400456: R_Arm_Ref
+    400458: R_Leg_Ref
+    400460: Ref_L_Arm
+    400462: Ref_L_Forearm
+    400464: Ref_L_Leg
+    400466: Ref_L_Shin
+    400468: Ref_R_Arm
+    400470: Ref_R_Forearm
+    400472: Ref_R_Leg
+    400474: Ref_R_Shin
+    400476: Ref_Body
+    400478: Body_03a_L_Arm
+    400480: Body_03a_L_Forearm
+    400482: Body_03a_L_Leg
+    400484: Body_03a_R_Arm
+    400486: Body_03a_R_Forearm
+    400488: Body_03a_R_Leg
+    400490: Body_03a_L_Arm_LOD0
+    400492: Body_03a_L_Forearm_LOD0
+    400494: Body_03a_L_Leg_LOD0
+    400496: Body_03a_LOD0
+    400498: Body_03a_R_Arm_LOD0
+    400500: Body_03a_R_Forearm_LOD0
+    400502: Body_03a_R_Leg_LOD0
+    400504: Head_03b_LOD0
+    400506: Head_03a_LOD
+    2100000: TT_RTS_Units
+    2300000: Head_01a
+    2300002: Head_01b
+    2300004: Head_01c
+    2300006: Head_01d
+    2300008: Head_01e
+    2300010: Head_02a
+    2300012: Head_02b
+    2300014: Head_02c
+    2300016: Head_02d
+    2300018: Head_02e
+    2300020: Head_02f
+    2300022: Head_03a
+    2300024: Head_03b
+    2300026: Head_03c
+    2300028: Head_03d
+    2300030: Head_03e
+    2300032: Head_04a
+    2300034: Head_04b
+    2300036: Head_04c
+    2300038: Head_04d
+    2300040: Head_04e
+    2300042: Head_04f
+    2300044: Head_05a
+    2300046: Head_05b
+    2300048: Head_05c
+    2300050: Head_06a
+    2300052: Head_06b
+    2300054: Head_06c
+    2300056: Head_06d
+    2300058: Head_06e
+    2300060: Head_06f
+    2300062: Head_06g
+    2300064: Head_06h
+    2300066: Head_07a
+    2300068: Head_07b
+    2300070: Head_07c
+    2300072: Head_07d
+    2300074: Head_07e
+    2300076: Head_08a
+    2300078: Head_08b
+    2300080: Head_08c
+    2300082: Head_08d
+    2300084: Head_08e
+    2300086: Head_08f
+    2300088: Head_08g
+    2300090: Head_09a
+    2300092: Head_09b
+    2300094: Head_09c
+    2300096: Head_09d
+    2300098: Head_09e
+    2300100: Head_09f
+    2300102: Head_09g
+    2300104: Head_09h
+    2300106: Head_10a
+    2300108: Head_10b
+    2300110: Head_10c
+    2300112: Head_10d
+    2300114: Head_10e
+    2300116: Head_10f
+    2300118: Head_10g
+    2300120: Head_10h
+    2300122: Head_11a
+    2300124: Head_11b
+    2300126: Head_11c
+    2300128: Head_11d
+    2300130: Head_11e
+    2300132: Head_12a
+    2300134: Head_12b
+    2300136: Head_12c
+    2300138: Head_12d
+    2300140: Head_12e
+    2300142: quiver_A
+    2300144: quiver_B
+    2300146: shield_01
+    2300148: shield_02
+    2300150: shield_03
+    2300152: shield_04
+    2300154: shield_05
+    2300156: shield_06
+    2300158: shield_07
+    2300160: shield_08
+    2300162: shield_09
+    2300164: shield_10
+    2300166: shield_11
+    2300168: shield_12
+    2300170: shield_13
+    2300172: shield_14
+    2300174: shield_15
+    2300176: shield_16
+    2300178: shield_17
+    2300180: shield_18
+    2300182: shield_19
+    2300184: shield_20
+    2300186: shield_21
+    2300188: shield_22
+    2300190: shield_23
+    2300192: w_axe_A
+    2300194: w_axe_B
+    2300196: w_axe_C
+    2300198: w_axe_D
+    2300200: w_axe_E
+    2300202: w_bardiche
+    2300204: w_broad_sword
+    2300206: w_broad_sword_B
+    2300208: w_club
+    2300210: w_crossbow
+    2300212: w_crossbow_B
+    2300214: w_dagger_A
+    2300216: w_dagger_B
+    2300218: w_dagger_C
+    2300220: w_glaive
+    2300222: w_halberd
+    2300224: w_hammer
+    2300226: w_long_bow
+    2300228: w_mace
+    2300230: w_mace_B
+    2300232: w_maul
+    2300234: w_maul_B
+    2300236: w_morning_star
+    2300238: w_pick
+    2300240: w_pike
+    2300242: w_recurve_bow
+    2300244: w_sabre
+    2300246: w_short_bow
+    2300248: w_short_sword
+    2300250: w_short_sword_B
+    2300252: w_spear
+    2300254: w_staff_A
+    2300256: w_staff_B
+    2300258: w_staff_C
+    2300260: w_staff_D
+    2300262: w_sword
+    2300264: w_sword_B
+    2300266: w_TH_Axe_A
+    2300268: w_TH_Axe_B
+    2300270: w_TH_claymore
+    2300272: w_TH_club
+    2300274: w_TH_maul
+    2300276: w_TH_maul_B
+    2300278: w_TH_sword
+    2300280: w_TH_sword_B
+    2300282: w_TH_warhammer
+    2300284: w_TH_warhammer_B
+    2300286: w_warhammer
+    2300288: Head_Reference
+    2300290: L_Hand_Ref
+    2300292: Shield_Ref
+    2300294: R_Hand_Ref
+    2300296: Back_Ref
+    2300298: Body_Ref
+    2300300: L_Arm_Ref
+    2300302: L_Leg_Ref
+    2300304: R_Arm_Ref
+    2300306: R_Leg_Ref
+    2300308: Ref_L_Arm
+    2300310: Ref_L_Forearm
+    2300312: Ref_L_Leg
+    2300314: Ref_L_Shin
+    2300316: Ref_R_Arm
+    2300318: Ref_R_Forearm
+    2300320: Ref_R_Leg
+    2300322: Ref_R_Shin
+    2300324: Ref_Body
+    2300326: Body_03a
+    2300328: Body_03a_L_Arm
+    2300330: Body_03a_L_Forearm
+    2300332: Body_03a_L_Leg
+    2300334: Body_03a_R_Arm
+    2300336: Body_03a_R_Forearm
+    2300338: Body_03a_R_Leg
+    2300340: Body_03a_L_Arm_LOD0
+    2300342: Body_03a_L_Forearm_LOD0
+    2300344: Body_03a_L_Leg_LOD0
+    2300346: Body_03a_LOD0
+    2300348: Body_03a_R_Arm_LOD0
+    2300350: Body_03a_R_Forearm_LOD0
+    2300352: Body_03a_R_Leg_LOD0
+    2300354: Head_03b_LOD0
+    2300356: Head_03a_LOD
+    2300358: Body_01a
+    2300360: Body_01b
+    2300362: Body_01c
+    2300364: Body_02a
+    2300366: Body_02b
+    2300368: Body_02c
+    2300370: Body_02d
+    2300372: Body_03b
+    2300374: Body_04a
+    2300376: Body_04b
+    2300378: Body_04c
+    2300380: Body_04d
+    2300382: Body_04e
+    2300384: Body_05a
+    2300386: Body_05b
+    2300388: Body_05c
+    2300390: Body_05d
+    2300392: Body_05e
+    2300394: Body_06a
+    2300396: Body_06b
+    2300398: Body_06c
+    2300400: Body_06d
+    2300402: Body_07a
+    2300404: Body_07b
+    2300406: Body_07c
+    2300408: Body_08a
+    2300410: Body_08b
+    2300412: Body_09c
+    2300414: Body_09d
+    2300416: Body_10a
+    2300418: Body_10b
+    2300420: Body_10c
+    2300422: Body_10d
+    2300424: Body_11a
+    2300426: Body_11b
+    2300428: Body_11c
+    2300430: Body_12a
+    2300432: Body_12b
+    2300434: Body_12c
+    2300436: Body_12d
+    2300438: Body_12e
+    2300440: Body_13a
+    2300442: Body_13b
+    2300444: Body_13c
+    3300000: Head_01a
+    3300002: Head_01b
+    3300004: Head_01c
+    3300006: Head_01d
+    3300008: Head_01e
+    3300010: Head_02a
+    3300012: Head_02b
+    3300014: Head_02c
+    3300016: Head_02d
+    3300018: Head_02e
+    3300020: Head_02f
+    3300022: Head_03a
+    3300024: Head_03b
+    3300026: Head_03c
+    3300028: Head_03d
+    3300030: Head_03e
+    3300032: Head_04a
+    3300034: Head_04b
+    3300036: Head_04c
+    3300038: Head_04d
+    3300040: Head_04e
+    3300042: Head_04f
+    3300044: Head_05a
+    3300046: Head_05b
+    3300048: Head_05c
+    3300050: Head_06a
+    3300052: Head_06b
+    3300054: Head_06c
+    3300056: Head_06d
+    3300058: Head_06e
+    3300060: Head_06f
+    3300062: Head_06g
+    3300064: Head_06h
+    3300066: Head_07a
+    3300068: Head_07b
+    3300070: Head_07c
+    3300072: Head_07d
+    3300074: Head_07e
+    3300076: Head_08a
+    3300078: Head_08b
+    3300080: Head_08c
+    3300082: Head_08d
+    3300084: Head_08e
+    3300086: Head_08f
+    3300088: Head_08g
+    3300090: Head_09a
+    3300092: Head_09b
+    3300094: Head_09c
+    3300096: Head_09d
+    3300098: Head_09e
+    3300100: Head_09f
+    3300102: Head_09g
+    3300104: Head_09h
+    3300106: Head_10a
+    3300108: Head_10b
+    3300110: Head_10c
+    3300112: Head_10d
+    3300114: Head_10e
+    3300116: Head_10f
+    3300118: Head_10g
+    3300120: Head_10h
+    3300122: Head_11a
+    3300124: Head_11b
+    3300126: Head_11c
+    3300128: Head_11d
+    3300130: Head_11e
+    3300132: Head_12a
+    3300134: Head_12b
+    3300136: Head_12c
+    3300138: Head_12d
+    3300140: Head_12e
+    3300142: quiver_A
+    3300144: quiver_B
+    3300146: shield_01
+    3300148: shield_02
+    3300150: shield_03
+    3300152: shield_04
+    3300154: shield_05
+    3300156: shield_06
+    3300158: shield_07
+    3300160: shield_08
+    3300162: shield_09
+    3300164: shield_10
+    3300166: shield_11
+    3300168: shield_12
+    3300170: shield_13
+    3300172: shield_14
+    3300174: shield_15
+    3300176: shield_16
+    3300178: shield_17
+    3300180: shield_18
+    3300182: shield_19
+    3300184: shield_20
+    3300186: shield_21
+    3300188: shield_22
+    3300190: shield_23
+    3300192: w_axe_A
+    3300194: w_axe_B
+    3300196: w_axe_C
+    3300198: w_axe_D
+    3300200: w_axe_E
+    3300202: w_bardiche
+    3300204: w_broad_sword
+    3300206: w_broad_sword_B
+    3300208: w_club
+    3300210: w_crossbow
+    3300212: w_crossbow_B
+    3300214: w_dagger_A
+    3300216: w_dagger_B
+    3300218: w_dagger_C
+    3300220: w_glaive
+    3300222: w_halberd
+    3300224: w_hammer
+    3300226: w_long_bow
+    3300228: w_mace
+    3300230: w_mace_B
+    3300232: w_maul
+    3300234: w_maul_B
+    3300236: w_morning_star
+    3300238: w_pick
+    3300240: w_pike
+    3300242: w_recurve_bow
+    3300244: w_sabre
+    3300246: w_short_bow
+    3300248: w_short_sword
+    3300250: w_short_sword_B
+    3300252: w_spear
+    3300254: w_staff_A
+    3300256: w_staff_B
+    3300258: w_staff_C
+    3300260: w_staff_D
+    3300262: w_sword
+    3300264: w_sword_B
+    3300266: w_TH_Axe_A
+    3300268: w_TH_Axe_B
+    3300270: w_TH_claymore
+    3300272: w_TH_club
+    3300274: w_TH_maul
+    3300276: w_TH_maul_B
+    3300278: w_TH_sword
+    3300280: w_TH_sword_B
+    3300282: w_TH_warhammer
+    3300284: w_TH_warhammer_B
+    3300286: w_warhammer
+    3300288: Head_Reference
+    3300290: L_Hand_Ref
+    3300292: Shield_Ref
+    3300294: R_Hand_Ref
+    3300296: Back_Ref
+    3300298: Body_Ref
+    3300300: L_Arm_Ref
+    3300302: L_Leg_Ref
+    3300304: R_Arm_Ref
+    3300306: R_Leg_Ref
+    3300308: Ref_L_Arm
+    3300310: Ref_L_Forearm
+    3300312: Ref_L_Leg
+    3300314: Ref_L_Shin
+    3300316: Ref_R_Arm
+    3300318: Ref_R_Forearm
+    3300320: Ref_R_Leg
+    3300322: Ref_R_Shin
+    3300324: Ref_Body
+    3300326: Body_03a
+    3300328: Body_03a_L_Arm
+    3300330: Body_03a_L_Forearm
+    3300332: Body_03a_L_Leg
+    3300334: Body_03a_R_Arm
+    3300336: Body_03a_R_Forearm
+    3300338: Body_03a_R_Leg
+    3300340: Body_03a_L_Arm_LOD0
+    3300342: Body_03a_L_Forearm_LOD0
+    3300344: Body_03a_L_Leg_LOD0
+    3300346: Body_03a_LOD0
+    3300348: Body_03a_R_Arm_LOD0
+    3300350: Body_03a_R_Forearm_LOD0
+    3300352: Body_03a_R_Leg_LOD0
+    3300354: Head_03b_LOD0
+    3300356: Head_03a_LOD
+    3300358: Body_01a
+    3300360: Body_01b
+    3300362: Body_01c
+    3300364: Body_02a
+    3300366: Body_02b
+    3300368: Body_02c
+    3300370: Body_02d
+    3300372: Body_03b
+    3300374: Body_04a
+    3300376: Body_04b
+    3300378: Body_04c
+    3300380: Body_04d
+    3300382: Body_04e
+    3300384: Body_05a
+    3300386: Body_05b
+    3300388: Body_05c
+    3300390: Body_05d
+    3300392: Body_05e
+    3300394: Body_06a
+    3300396: Body_06b
+    3300398: Body_06c
+    3300400: Body_06d
+    3300402: Body_07a
+    3300404: Body_07b
+    3300406: Body_07c
+    3300408: Body_08a
+    3300410: Body_08b
+    3300412: Body_09c
+    3300414: Body_09d
+    3300416: Body_10a
+    3300418: Body_10b
+    3300420: Body_10c
+    3300422: Body_10d
+    3300424: Body_11a
+    3300426: Body_11b
+    3300428: Body_11c
+    3300430: Body_12a
+    3300432: Body_12b
+    3300434: Body_12c
+    3300436: Body_12d
+    3300438: Body_12e
+    3300440: Body_13a
+    3300442: Body_13b
+    3300444: Body_13c
+    4300000: w_long_bow
+    4300002: w_recurve_bow
+    4300004: w_staff_C
+    4300006: w_staff_A
+    4300008: w_staff_B
+    4300010: w_short_bow
+    4300012: w_staff_D
+    4300014: shield_01
+    4300016: shield_02
+    4300018: shield_03
+    4300020: shield_07
+    4300022: shield_06
+    4300024: shield_04
+    4300026: shield_05
+    4300028: shield_08
+    4300030: shield_17
+    4300032: shield_10
+    4300034: shield_14
+    4300036: shield_11
+    4300038: shield_13
+    4300040: shield_12
+    4300042: shield_15
+    4300044: shield_16
+    4300046: shield_09
+    4300048: shield_18
+    4300050: shield_19
+    4300052: shield_21
+    4300054: shield_23
+    4300056: shield_22
+    4300058: shield_20
+    4300060: w_sword
+    4300062: w_TH_claymore
+    4300064: w_broad_sword
+    4300066: w_dagger_A
+    4300068: w_dagger_B
+    4300070: w_club
+    4300072: w_sabre
+    4300074: w_TH_sword
+    4300076: w_short_sword
+    4300078: w_TH_warhammer
+    4300080: w_crossbow
+    4300082: w_TH_maul
+    4300084: w_TH_club
+    4300086: w_TH_Axe_A
+    4300088: w_TH_Axe_B
+    4300090: w_bardiche
+    4300092: w_halberd
+    4300094: w_hammer
+    4300096: w_spear
+    4300098: w_pike
+    4300100: w_glaive
+    4300102: w_maul
+    4300104: w_morning_star
+    4300106: w_mace
+    4300108: w_pick
+    4300110: w_axe_C
+    4300112: w_axe_D
+    4300114: w_axe_A
+    4300116: w_axe_B
+    4300118: w_warhammer
+    4300120: w_axe_E
+    4300122: w_broad_sword_B
+    4300124: w_dagger_C
+    4300126: w_mace_B
+    4300128: w_maul_B
+    4300130: w_short_sword_B
+    4300132: w_sword_B
+    4300134: w_TH_maul_B
+    4300136: w_TH_sword_B
+    4300138: w_TH_warhammer_B
+    4300140: w_crossbow_B
+    4300142: Head_05c
+    4300144: Head_05b
+    4300146: Head_01a
+    4300148: Head_08d
+    4300150: Head_08a
+    4300152: Head_09a
+    4300154: Head_09g
+    4300156: Head_08f
+    4300158: Head_06c
+    4300160: Head_04a
+    4300162: Head_01c
+    4300164: Head_11a
+    4300166: Head_01b
+    4300168: Head_11b
+    4300170: Head_01d
+    4300172: Head_03b
+    4300174: Head_03a
+    4300176: Head_02c
+    4300178: Head_02d
+    4300180: Head_12c
+    4300182: Head_12a
+    4300184: Head_06d
+    4300186: Head_09e
+    4300188: Head_09f
+    4300190: Head_09c
+    4300192: Head_02b
+    4300194: Head_02a
+    4300196: Head_04c
+    4300198: Head_04b
+    4300200: Head_05a
+    4300202: Head_07a
+    4300204: Head_06a
+    4300206: Head_06g
+    4300208: Head_06h
+    4300210: Head_07d
+    4300212: Head_07c
+    4300214: Head_08b
+    4300216: Head_08e
+    4300218: Head_09d
+    4300220: Head_09b
+    4300222: Head_08g
+    4300224: Head_09h
+    4300226: Head_03c
+    4300228: Head_01e
+    4300230: Head_02e
+    4300232: Head_02f
+    4300234: Head_04e
+    4300236: Head_07b
+    4300238: Head_06f
+    4300240: Head_03e
+    4300242: Head_03d
+    4300244: Head_11c
+    4300246: Head_11e
+    4300248: Head_11d
+    4300250: Head_12b
+    4300252: Head_12d
+    4300254: Head_06b
+    4300256: Head_04f
+    4300258: Head_04d
+    4300260: Head_06e
+    4300262: Head_10f
+    4300264: Head_10e
+    4300266: Head_10b
+    4300268: Head_10a
+    4300270: Head_10h
+    4300272: Head_10d
+    4300274: Head_10c
+    4300276: Head_10g
+    4300278: Head_12e
+    4300280: Head_08c
+    4300282: Head_07e
+    4300284: quiver_A
+    4300286: quiver_B
+    4300288: Body_01a
+    4300290: Body_12c
+    4300292: Body_01b
+    4300294: Body_01c
+    4300296: Body_02c
+    4300298: Body_03a
+    4300300: Body_04a
+    4300302: Body_02a
+    4300304: Body_04b
+    4300306: Body_07a
+    4300308: Body_03b
+    4300310: Body_05b
+    4300312: Body_05a
+    4300314: Body_06a
+    4300316: Body_08b
+    4300318: Body_02b
+    4300320: Body_08a
+    4300322: Body_10a
+    4300324: Body_10b
+    4300326: Body_13a
+    4300328: Body_13b
+    4300330: Body_13c
+    4300332: Body_12d
+    4300334: Body_12e
+    4300336: Body_12a
+    4300338: Body_12b
+    4300340: Body_04d
+    4300342: Body_05d
+    4300344: Body_09d
+    4300346: Body_09c
+    4300348: Body_10d
+    4300350: Body_10c
+    4300352: Body_11a
+    4300354: Body_11b
+    4300356: Body_11c
+    4300358: Body_02d
+    4300360: Body_04c
+    4300362: Body_04e
+    4300364: Body_05c
+    4300366: Body_05e
+    4300368: Body_07b
+    4300370: Body_07c
+    4300372: Body_06b
+    4300374: Body_06d
+    4300376: Body_06c
+    4300378: Head_Reference
+    4300380: L_Hand_Ref
+    4300382: Shield_Ref
+    4300384: R_Hand_Ref
+    4300386: Back_Ref
+    4300388: L_Arm_Ref
+    4300390: R_Arm_Ref
+    4300392: L_Leg_Ref
+    4300394: R_Leg_Ref
+    4300396: Body_Ref
+    4300398: Ref_L_Forearm
+    4300400: Ref_L_Arm
+    4300402: Ref_R_Forearm
+    4300404: Ref_R_Arm
+    4300406: Ref_L_Shin
+    4300408: Ref_L_Leg
+    4300410: Ref_R_Shin
+    4300412: Ref_R_Leg
+    4300414: Ref_Body
+    4300416: Body_03a_L_Forearm
+    4300418: Body_03a_L_Arm
+    4300420: Body_03a_R_Forearm
+    4300422: Body_03a_R_Arm
+    4300424: Body_03a_L_Leg
+    4300426: Body_03a_R_Leg
+    4300428: Body_03a_L_Forearm_LOD0
+    4300430: Body_03a_L_Arm_LOD0
+    4300432: Body_03a_R_Forearm_LOD0
+    4300434: Body_03a_R_Arm_LOD0
+    4300436: Head_03b_LOD0
+    4300438: Body_03a_LOD0
+    4300440: Body_03a_L_Leg_LOD0
+    4300442: Body_03a_R_Leg_LOD0
+    4300444: Head_03a_LOD
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body_01a
+    13700002: Body_01b
+    13700004: Body_01c
+    13700006: Body_02a
+    13700008: Body_02b
+    13700010: Body_02c
+    13700012: Body_02d
+    13700014: Body_03a
+    13700016: Body_03b
+    13700018: Body_04a
+    13700020: Body_04b
+    13700022: Body_04c
+    13700024: Body_04d
+    13700026: Body_04e
+    13700028: Body_05a
+    13700030: Body_05b
+    13700032: Body_05c
+    13700034: Body_05d
+    13700036: Body_05e
+    13700038: Body_06a
+    13700040: Body_06b
+    13700042: Body_06c
+    13700044: Body_06d
+    13700046: Body_07a
+    13700048: Body_07b
+    13700050: Body_07c
+    13700052: Body_08a
+    13700054: Body_08b
+    13700056: Body_09c
+    13700058: Body_09d
+    13700060: Body_10a
+    13700062: Body_10b
+    13700064: Body_10c
+    13700066: Body_10d
+    13700068: Body_11a
+    13700070: Body_11b
+    13700072: Body_11c
+    13700074: Body_12a
+    13700076: Body_12b
+    13700078: Body_12c
+    13700080: Body_12d
+    13700082: Body_12e
+    13700084: Body_13a
+    13700086: Body_13b
+    13700088: Body_13c
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TT_RTS_Units
+    second: {fileID: 2100000, guid: ad1b2fe7e7cd0734693f8eeed56c7729, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: TT_RTS_Character_Fixed_SA(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip001
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0.45108902, z: -0.036125187}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bip001 Footsteps
+      parentName: Bip001
+      position: {x: -0, y: 0, z: -0.43992063}
+      rotation: {x: 0, y: -0, z: -0.7071063, w: 0.70710725}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bip001 Pelvis
+      parentName: Bip001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: Bip001 R Thigh
+      parentName: Bip001 Pelvis
+      position: {x: -0.00000024223328, y: -0.00000022406577, z: -0.17689879}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000405, y: 1.0000407, z: 1.0000513}
+    - name: Bip001 R Calf
+      parentName: Bip001 R Thigh
+      position: {x: -0.2132463, y: -0.000000001513958, z: 0.000000012111664}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000049, y: 1.0000056, z: 1.0000025}
+    - name: Ref_R_Leg
+      parentName: Bip001 R Calf
+      position: {x: -0.23222758, y: 0.05884567, z: -0.17689942}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: Body_03a_R_Leg_LOD0
+      parentName: Ref_R_Leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bip001 R Foot
+      parentName: Bip001 R Calf
+      position: {x: -0.10479823, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000008, y: 0.9999979, z: 1.0000011}
+    - name: Bip001 R Toe0
+      parentName: Bip001 R Foot
+      position: {x: -0.123024106, y: 0.27322584, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Bip001 R Toe0Nub
+      parentName: Bip001 R Toe0
+      position: {x: -0.006900354, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Ref_R_Shin
+      parentName: Bip001 R Foot
+      position: {x: -0.13419242, y: 0.041151565, z: -0.17689936}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: Bip001 L Thigh
+      parentName: Bip001 Pelvis
+      position: {x: 0.00000024223328, y: 0.0000002664566, z: 0.17689879}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000399, y: 1.00004, z: 1.0000505}
+    - name: Bip001 L Calf
+      parentName: Bip001 L Thigh
+      position: {x: -0.21324624, y: -0.000000009083748, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000122, y: 1.0000188, z: 1.0000062}
+    - name: Ref_L_Leg
+      parentName: Bip001 L Calf
+      position: {x: -0.23222765, y: 0.05884569, z: 0.17689818}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: Body_03a_L_Leg_LOD0
+      parentName: Ref_L_Leg
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Bip001 L Foot
+      parentName: Bip001 L Calf
+      position: {x: -0.10479823, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000117, y: 0.9999973, z: 1.0000044}
+    - name: Bip001 L Toe0
+      parentName: Bip001 L Foot
+      position: {x: -0.123024076, y: 0.27322587, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Bip001 L Toe0Nub
+      parentName: Bip001 L Toe0
+      position: {x: -0.006900354, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -0.9999999, y: -1, z: -0.9999999}
+    - name: Ref_L_Shin
+      parentName: Bip001 L Foot
+      position: {x: -0.13419247, y: 0.04115158, z: 0.17689821}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Bip001 Spine
+      parentName: Bip001 Pelvis
+      position: {x: -0.08668395, y: -0.00037782334, z: 0.00000012073724}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 0.9999974, z: 1}
+    - name: Bip001 L Clavicle
+      parentName: Bip001 Spine
+      position: {x: -0.3317789, y: 0.000112889786, z: 0.21894678}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bip001 L UpperArm
+      parentName: Bip001 L Clavicle
+      position: {x: -0.10956235, y: 0.000000009083748, z: 0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000016, y: 1.000015, z: 1.0000148}
+    - name: Bip001 L Forearm
+      parentName: Bip001 L UpperArm
+      position: {x: -0.1928595, y: -0.000000012111664, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999136, y: 1.000001, z: 0.99999213}
+    - name: Ref_L_Arm
+      parentName: Bip001 L Forearm
+      position: {x: -0.1686654, y: -0.08864391, z: -0.83656985}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: Body_03a_L_Arm_LOD0
+      parentName: Ref_L_Arm
+      position: {x: 0.000000048446655, y: 0.000000033307074, z: -1.1640821e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Bip001 L Hand
+      parentName: Bip001 L Forearm
+      position: {x: -0.13800707, y: -0.000000018167496, z: 0.00000009689331}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999995, y: 1.0000232, z: 1.0000325}
+    - name: L_hand_container
+      parentName: Bip001 L Hand
+      position: {x: -0.07401367, y: 0.009859088, z: -0.09225298}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: L_Hand_Ref
+      parentName: L_hand_container
+      position: {x: 0.000000048446655, y: 0, z: 0.0000006055832}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: w_long_bow
+      parentName: L_Hand_Ref
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999976, z: 1.0000005}
+    - name: w_recurve_bow
+      parentName: L_Hand_Ref
+      position: {x: -0.00000046024323, y: -0.00000009689331, z: 0.000000090837474}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999976, z: 1.0000005}
+    - name: w_short_bow
+      parentName: L_Hand_Ref
+      position: {x: -0.0000008720398, y: -0.00000048446657, z: 0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999976, z: 1.0000005}
+    - name: w_staff_A
+      parentName: L_Hand_Ref
+      position: {x: -0.0000005329132, y: -0.00000058135987, z: -0.000000006055832}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000004}
+    - name: w_staff_B
+      parentName: L_Hand_Ref
+      position: {x: -0.0000006782532, y: 0, z: 0.000000042390823}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000004}
+    - name: w_staff_C
+      parentName: L_Hand_Ref
+      position: {x: -0.0000007266998, y: 0, z: 0.000000042390823}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000004}
+    - name: w_staff_D
+      parentName: L_Hand_Ref
+      position: {x: -0.0000006782532, y: 0, z: 0.000000042390823}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000004}
+    - name: L_shield_container
+      parentName: Bip001 L Hand
+      position: {x: -0.13785276, y: -0.05289028, z: -0.054715082}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+    - name: Shield_Ref
+      parentName: L_shield_container
+      position: {x: -0, y: 0.0000007751465, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 0.99999964, z: 1.0000001}
+    - name: shield_01
+      parentName: Shield_Ref
+      position: {x: -0.0000007266998, y: 0.00000009689331, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999991, z: 0.9999999}
+    - name: shield_02
+      parentName: Shield_Ref
+      position: {x: -0.0000012111664, y: 0.00000019378662, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999991, z: 0.9999999}
+    - name: shield_03
+      parentName: Shield_Ref
+      position: {x: -0.000001259613, y: 0.00000029067994, z: -0.0000001513958}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_04
+      parentName: Shield_Ref
+      position: {x: -0.00000082359315, y: 0.00000009689331, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_05
+      parentName: Shield_Ref
+      position: {x: -0.00000092048646, y: 0.00000038757324, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_06
+      parentName: Shield_Ref
+      position: {x: -0, y: -0.00000009689331, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_07
+      parentName: Shield_Ref
+      position: {x: -0.0000006782532, y: 0.00000019378662, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_08
+      parentName: Shield_Ref
+      position: {x: -0.0000007751465, y: 0.00000029067994, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 0.999999, z: 0.99999994}
+    - name: shield_09
+      parentName: Shield_Ref
+      position: {x: 0.00000014533997, y: 0.00000048446657, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 0.999999, z: 0.99999994}
+    - name: shield_10
+      parentName: Shield_Ref
+      position: {x: -0.0000005329132, y: 0, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 0.99999887, z: 1.0000001}
+    - name: shield_11
+      parentName: Shield_Ref
+      position: {x: -0.00000058135987, y: 0.00000019378662, z: -0.0000001513958}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_12
+      parentName: Shield_Ref
+      position: {x: -0, y: 0.00000009689331, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_13
+      parentName: Shield_Ref
+      position: {x: -0.0000007266998, y: 0.00000019378662, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_14
+      parentName: Shield_Ref
+      position: {x: -0, y: 0, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 0.99999887, z: 1.0000001}
+    - name: shield_15
+      parentName: Shield_Ref
+      position: {x: -0.0000015987396, y: 0.00000048446657, z: -0.00000019378662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_16
+      parentName: Shield_Ref
+      position: {x: -0.0000005329132, y: 0.00000009689331, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_17
+      parentName: Shield_Ref
+      position: {x: -0, y: 0.00000019378662, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 0.999999, z: 0.99999994}
+    - name: shield_18
+      parentName: Shield_Ref
+      position: {x: 0.00000014533997, y: 0.00000048446657, z: -0.00000029067994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_19
+      parentName: Shield_Ref
+      position: {x: -0.00000092048646, y: 0.00000038757324, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_20
+      parentName: Shield_Ref
+      position: {x: 0.000000048446655, y: 0.00000009689331, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_21
+      parentName: Shield_Ref
+      position: {x: 0.0000007751465, y: 0, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_22
+      parentName: Shield_Ref
+      position: {x: -0.0000006782532, y: 0.0000007751465, z: -0.00000019378662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999917, z: 0.99999994}
+    - name: shield_23
+      parentName: Shield_Ref
+      position: {x: 0.0000007751465, y: 0, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 0.99999887, z: 1.0000001}
+    - name: Ref_L_Forearm
+      parentName: Bip001 L Hand
+      position: {x: -0.030658342, y: 0.8364991, z: -0.08930999}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Body_03a_L_Forearm_LOD0
+      parentName: Ref_L_Forearm
+      position: {x: -0.00000004844663, y: 0.000000033307103, z: 0.00000009689333}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: Bip001 R Clavicle
+      parentName: Bip001 Spine
+      position: {x: -0.3317789, y: 0.0001140949, z: -0.21894678}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bip001 R UpperArm
+      parentName: Bip001 R Clavicle
+      position: {x: -0.109562375, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000254, y: 1.0000223, z: 1.0000257}
+    - name: Bip001 R Forearm
+      parentName: Bip001 R UpperArm
+      position: {x: -0.1928594, y: 0.000000012111664, z: 0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000514, y: 1.0000346, z: 1.00002}
+    - name: Ref_R_Arm
+      parentName: Bip001 R Forearm
+      position: {x: -0.16866466, y: -0.08864421, z: 0.83657044}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Body_03a_R_Arm_LOD0
+      parentName: Ref_R_Arm
+      position: {x: -4.827785e-15, y: 0.000000009083732, z: 0.000000048446672}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: Bip001 R Hand
+      parentName: Bip001 R Forearm
+      position: {x: -0.13800713, y: 0.000000012111664, z: 0.00000019378662}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000012, y: 1.00003, z: 0.9999841}
+    - name: R_hand_container
+      parentName: Bip001 R Hand
+      position: {x: -0.07390944, y: 0.00995947, z: 0.09228212}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: R_Hand_Ref
+      parentName: R_hand_container
+      position: {x: 0.00000018773079, y: 0.0000014533996, z: 0.0000007751465}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: w_axe_A
+      parentName: R_Hand_Ref
+      position: {x: -0.000000048446655, y: -0.0000011627197, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_axe_B
+      parentName: R_Hand_Ref
+      position: {x: 0.0000003633499, y: -0.0000006782532, z: -0.000000042390823}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_axe_C
+      parentName: R_Hand_Ref
+      position: {x: 0.000000072669984, y: -0.0000007751465, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_axe_D
+      parentName: R_Hand_Ref
+      position: {x: 0.00000029067994, y: -0.000001259613, z: -0.00000018773079}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_axe_E
+      parentName: R_Hand_Ref
+      position: {x: 0.000000072669984, y: -0.0000007751465, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_bardiche
+      parentName: R_Hand_Ref
+      position: {x: -0.000000072669984, y: 0.00000009689331, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1.0000005}
+    - name: w_broad_sword
+      parentName: R_Hand_Ref
+      position: {x: -0.000000072669984, y: -0.0000013565063, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_broad_sword_B
+      parentName: R_Hand_Ref
+      position: {x: -0.000000072669984, y: -0.0000013565063, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_club
+      parentName: R_Hand_Ref
+      position: {x: -0.000000048446655, y: -0.00000048446657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000004}
+    - name: w_crossbow
+      parentName: R_Hand_Ref
+      position: {x: 0.00000075092316, y: -0.0000014533996, z: -0.00000024223328}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.000001}
+    - name: w_crossbow_B
+      parentName: R_Hand_Ref
+      position: {x: 0.00000075092316, y: -0.0000014533996, z: -0.00000024223328}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.000001}
+    - name: w_dagger_A
+      parentName: R_Hand_Ref
+      position: {x: 0.000000024223327, y: -0.0000013565063, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_dagger_B
+      parentName: R_Hand_Ref
+      position: {x: 0.00000075092316, y: -0.0000011627197, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_dagger_C
+      parentName: R_Hand_Ref
+      position: {x: 0.000000024223327, y: -0.0000013565063, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_glaive
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007024765, y: 0, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1.0000005}
+    - name: w_halberd
+      parentName: R_Hand_Ref
+      position: {x: -0.00000084781647, y: 0.00000019378662, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1.0000005}
+    - name: w_hammer
+      parentName: R_Hand_Ref
+      position: {x: -0.000000048446655, y: -0.00000048446657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_mace
+      parentName: R_Hand_Ref
+      position: {x: 0.00000038757324, y: -0.0000008720398, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_mace_B
+      parentName: R_Hand_Ref
+      position: {x: 0.00000038757324, y: -0.0000008720398, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_maul
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007266998, y: -0.0000008720398, z: -0.00000019378662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_maul_B
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007266998, y: -0.0000008720398, z: -0.00000019378662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_morning_star
+      parentName: R_Hand_Ref
+      position: {x: 0.0000004360199, y: -0.0000017440796, z: -0.00000029067994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_pick
+      parentName: R_Hand_Ref
+      position: {x: -0.00000012111664, y: -0.0000011627197, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_pike
+      parentName: R_Hand_Ref
+      position: {x: -0.000000048446655, y: -0.00000048446657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1.0000005}
+    - name: w_sabre
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007024765, y: -0.00000038757324, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_short_sword
+      parentName: R_Hand_Ref
+      position: {x: -0.000000072669984, y: 0.00000009689331, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_short_sword_B
+      parentName: R_Hand_Ref
+      position: {x: -0.000000072669984, y: 0.00000009689331, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_spear
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007024765, y: -0.00000038757324, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000002}
+    - name: w_sword
+      parentName: R_Hand_Ref
+      position: {x: -0.000000048446655, y: -0.00000048446657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_sword_B
+      parentName: R_Hand_Ref
+      position: {x: -0.000000048446655, y: -0.00000048446657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_TH_Axe_A
+      parentName: R_Hand_Ref
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.000001}
+    - name: w_TH_Axe_B
+      parentName: R_Hand_Ref
+      position: {x: 0.00000058135987, y: -0.00000058135987, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.000001}
+    - name: w_TH_claymore
+      parentName: R_Hand_Ref
+      position: {x: 0.00000075092316, y: -0.0000011627197, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_TH_club
+      parentName: R_Hand_Ref
+      position: {x: 0.00000058135987, y: -0.00000058135987, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000004}
+    - name: w_TH_maul
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007266998, y: -0.0000020347595, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_TH_maul_B
+      parentName: R_Hand_Ref
+      position: {x: 0.0000007266998, y: -0.0000020347595, z: -0.00000014533997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_TH_sword
+      parentName: R_Hand_Ref
+      position: {x: 0.00000058135987, y: -0.00000058135987, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_TH_sword_B
+      parentName: R_Hand_Ref
+      position: {x: 0.00000058135987, y: -0.00000058135987, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.000001}
+    - name: w_TH_warhammer
+      parentName: R_Hand_Ref
+      position: {x: 0.00000075092316, y: -0.0000011627197, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_TH_warhammer_B
+      parentName: R_Hand_Ref
+      position: {x: 0.00000075092316, y: -0.0000011627197, z: -0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: w_warhammer
+      parentName: R_Hand_Ref
+      position: {x: 0.0000006055832, y: -0.0000013565063, z: -0.00000013928413}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: Ref_R_Forearm
+      parentName: Bip001 R Hand
+      position: {x: -0.030657597, y: 0.83649963, z: 0.089310326}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 0.9999998}
+    - name: Body_03a_R_Forearm_LOD0
+      parentName: Ref_R_Forearm
+      position: {x: 4.511941e-16, y: 0.0000000242233, z: 0.00000009689333}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Bip001 Neck
+      parentName: Bip001 Spine
+      position: {x: -0.4422118, y: 0.0018946094, z: 0.000000002595462}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bip001 Head
+      parentName: Bip001 Neck
+      position: {x: -0.089246005, y: 0, z: -1.8480932e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bip001 HeadNub
+      parentName: Bip001 Head
+      position: {x: -0.5598672, y: -0.000000003027916, z: -2.77214e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: HEAD_CONTAINER
+      parentName: Bip001 Head
+      position: {x: -0.15077102, y: 0.062292684, z: 0.00000029068002}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.83, y: 0.83000004, z: 0.83}
+    - name: Head_Reference
+      parentName: HEAD_CONTAINER
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_01a
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_01b
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_01c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_01d
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_01e
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_02a
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_02b
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_02c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_02d
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: 0.00000058135987}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_02e
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: 0.00000058135987}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_02f
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: 0.00000058135987}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_03a
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_03b
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000058135976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_03c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_03d
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_03e
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_04a
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_04b
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000058135976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_04c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_04d
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: 0.00000058135987}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_04e
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_04f
+      parentName: Head_Reference
+      position: {x: 0.00000058135987, y: 0.000000003027916, z: 0.0000013565063}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_05a
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000019378652}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_05b
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000019378652}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_05c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06a
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06b
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000019378652}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06d
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000019378652}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06e
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06f
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000058135976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06g
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_06h
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.0000009689333}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_07a
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000019378652}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_07b
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000019378652}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_07c
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000038757324}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_07d
+      parentName: Head_Reference
+      position: {x: 0.00000048446657, y: 0.000000003027916, z: -0.00000038757324}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_07e
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_08a
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_08b
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000029067994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_08c
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Head_08d
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_08e
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_08f
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_08g
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_09a
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.00000038757324}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_09b
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_09c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Head_09d
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Head_09e
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Head_09f
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Head_09g
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_09h
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: Head_10a
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: -0.00000038757324}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_10b
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: -0.0000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_10c
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_10d
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_10e
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.0000008720399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Head_10f
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Head_10g
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Head_10h
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: 0.00000058135987}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Head_11a
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_11b
+      parentName: Head_Reference
+      position: {x: 0.00000038757324, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_11c
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.00000019378662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_11d
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: -0.00000019378662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_11e
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: 0.0000014533996}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_12a
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: 0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_12b
+      parentName: Head_Reference
+      position: {x: -0.00000009689331, y: 0.000000003027916, z: -0.00000058135976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_12c
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000048446657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_12d
+      parentName: Head_Reference
+      position: {x: 0.00000009689331, y: 0.000000003027916, z: -0.00000009689331}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Head_12e
+      parentName: Head_Reference
+      position: {x: -0, y: 0.000000003027916, z: 0.0000006782532}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Backpack_container
+      parentName: Bip001 Spine
+      position: {x: -0.2635248, y: -0.22322838, z: -0.0000003391266}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Back_Ref
+      parentName: Backpack_container
+      position: {x: -0, y: 9.240466e-14, z: 0.000000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: quiver_B
+      parentName: Back_Ref
+      position: {x: 0.000000048446562, y: 0.00000014533997, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 0.9999998}
+    - name: quiver_A
+      parentName: Back_Ref
+      position: {x: 0.0000000484467, y: 0.00000014533997, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 0.9999998}
+    - name: Ref_Body
+      parentName: Bip001 Spine
+      position: {x: 0.52877355, y: 0.00017835031, z: -0.0023106055}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999999}
+    - name: Body_03a_LOD0
+      parentName: Ref_Body
+      position: {x: -0.0023112188, y: -0.007232856, z: 0.0371345}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 0.99999994}
+    - name: Body_01a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_12c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_01b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_01c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_02c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_04a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_02a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_04b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_07a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_03b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_05b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_05a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_06a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_08b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_02b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_08a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_10a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_10b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_13a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_13b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_13c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_12d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_12e
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_12a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_12b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_04d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_05d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_09d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_09c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_10d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_10c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_11a
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_11b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_11c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_02d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_04c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_04e
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_05c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_05e
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_07b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_07c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_06b
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_06d
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_06c
+      parentName: TT_RTS_Character_Fixed_SA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

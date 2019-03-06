@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca42dd0903161e4499b9ec4642f0577c, type: 3}
+  m_Name: ConfigurationFile
+  m_EditorClassIdentifier: 
+  bakeTarget: {fileID: 100022, guid: e6cb1da57f12ded4b86aed40b45ae3aa, type: 3}
+  animClip: {fileID: 7400000, guid: 97e9643be2f557e49b63d42bab4178d3, type: 3}
+  shaderType: 0
+  individualDifferenceEnabled: 1
+  rootMotionEnabled: 1
+  previousBakeTarget: {fileID: 100022, guid: e6cb1da57f12ded4b86aed40b45ae3aa, type: 3}
+  rootBoneGameObject: {fileID: 100022, guid: e6cb1da57f12ded4b86aed40b45ae3aa, type: 3}
+  bakingLock: 1
+  treeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 

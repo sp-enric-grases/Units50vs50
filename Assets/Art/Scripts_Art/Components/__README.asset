@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: __README
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 34f556d724b1bbf4097ca6220db2c581, type: 3}
+  title: Art Tools folder
+  sections:
+  - heading: Summary
+    text: "This folder contains the components that artists can use to make their
+      art shine even brighter and their lives a little easier. \n\nTo see a list of
+      the available components, go to the 'Component > Social Point > Art' menu in
+      Unity, or select a gameobject and click on 'Add Component', and go to the category
+      'Social Point > Art'.\r\n"
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: Guide for scripting new Art components
+    url: https://socialpoint.atlassian.net/wiki/spaces/ACent/pages/1035699204/Scripting+Unity+tools+components+for+artists

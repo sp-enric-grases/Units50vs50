@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: __README
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 34f556d724b1bbf4097ca6220db2c581, type: 3}
+  title: <i>_WIP</i> folder
+  sections:
+  - heading: Summary
+    text: "Use this folder to share <b>temporary</b> Unity assets under GIT control.\r"
+    linkText: 
+    url: 
+  - heading: Description
+    text: 'As an artist, you need to import your art assets inside Unity to start
+      working. However, many times it is not yet decided where the assets will end
+      up, and which assets will be discarded.
+
+
+      On top of that, other people may need to have access to those temporary assets
+      to keep working. That is why this folder has to be under version control (Git).
+
+
+      The _WIP folder is a necessary evil. You must <color=red>handle this with care</color>.
+      Of course, as the name of the folder implies, this folder should be completely
+      empty in a release branch.'
+    linkText: 
+    url: 
