@@ -17,9 +17,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Test6.unity
     guid: 316f288976178aa4c9910d70c4ece9c6
-  - enabled: 0
-    path: Assets/GPUAnimationBakerPro/Demos/Scenes/AudienceCheerDemo.unity
-    guid: 584cb7aff2183674883073fca25e3844
   - enabled: 1
     path: Assets/Scenes/Test5.unity
     guid: d26c008a7218884468edeb559c0b81d2

@@ -190,8 +190,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4367766917130764}
   - component: {fileID: 95388534347605682}
-  - component: {fileID: 195279842927711042}
-  - component: {fileID: 114483455868023288}
   - component: {fileID: 114723117568379676}
   m_Layer: 0
   m_Name: TT_Archer_Animator
@@ -791,17 +789,6 @@ Animator:
   m_HasTransformHierarchy: 0
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114483455868023288
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1860070545705072}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d56818786447e5e49bf287da28026b08, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114723117568379676
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -814,24 +801,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Color: {r: 0.4627451, g: 0.64705884, b: 0, a: 1}
---- !u!195 &195279842927711042
-NavMeshAgent:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1860070545705072}
-  m_Enabled: 1
-  m_AgentTypeID: 0
-  m_Radius: 0.3
-  m_Speed: 10
-  m_Acceleration: 8
-  avoidancePriority: 50
-  m_AngularSpeed: 120
-  m_StoppingDistance: 0
-  m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
-  m_AutoRepath: 1
-  m_Height: 1.5
-  m_BaseOffset: 0
-  m_WalkableMask: 4294967295
-  m_ObstacleAvoidanceType: 0
